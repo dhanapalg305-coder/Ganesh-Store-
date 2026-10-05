@@ -1,0 +1,1 @@
+Persistent SQLite database and uploaded product images live here. Back up this directory.
